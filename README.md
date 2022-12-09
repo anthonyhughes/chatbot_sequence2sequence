@@ -1,5 +1,4 @@
-# chatbot_sequence2sequence
-Sequence to Sequence Chatbot
+# Sequence to Sequence Chatbot
 
 A basic sequence to sequence chatbot built on data from Twitter. Warning :warning: It's not particularly coherent :smile:
 
